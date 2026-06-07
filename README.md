@@ -12,7 +12,7 @@
 
 - 🔭 Currently building **LLM-powered data validation & ETL pipelines** @ Aspect Ratio
 - 📊 Worked with **320M+ patient lives** across healthcare analytics at enterprise scale
-- 🏏 Built a **multimodal cricket shot analytics system** - YOLOv8 + MediaPipe + 5 deep learning architectures
+- 🏏 Built a **multimodal cricket shot analytics system** - YOLOv8 + MediaPipe + 4 deep learning architectures
 - 🔐 Broke a **hardware security primitive (CAR-PUF)** using ML for my IITK coursework
 - 💬 Ask me about **SQL, PySpark, PyTorch, Power BI, or data pipelines**
 - 📫 Reach me at **adarshmudgal4612@gmail.com**
