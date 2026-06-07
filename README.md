@@ -60,7 +60,7 @@
 |---|---|---|
 | [🏏 Cricket Shot Analytics](https://github.com/adarshmudgal4612/Cricket-Shot-Intensity-and-analytics) | Multimodal ML - YOLOv8 tracking + MediaPipe pose + OCR commentary sync. Benchmarks 4 sequence models. Best F1: **0.737** | PyTorch · YOLOv8 · MediaPipe · OpenCV |
 | [💳 Fraud Detection System](https://github.com/adarshmudgal4612/Fraud-Detection-System) | End-to-end classifier on **6.3M+ financial transactions**. Live Streamlit app deployed | Scikit-learn · Streamlit · Pandas |
-| [📊 SuperStore Sales Dashboard](https://github.com/adarshmudgal4612/SuperStore-Sales-Dashboard_-Power-BI) | Power BI dashboard with 15-day forecast on **$1.6M sales data** using ARIMA + Exponential Smoothing | Power BI · SQL · ARIMA |
+| [📊 SuperStore Sales Dashboard](https://github.com/adarshmudgal4612/SuperStore-Sales-Dashboard_-Power-BI) | Power BI dashboard with 15-day forecast on **$1.6M sales data** using Exponential Smoothing | Power BI · SQL |
 | [🎬 Movie Recommender](https://github.com/adarshmudgal4612/Movie-Recommender-System) | Hybrid recommendation engine - KNN + collaborative filtering + content-based on MovieLens-100K | Scikit-learn · Pandas |
 | [🔐 Breaking CAR-PUF](https://github.com/adarshmudgal4612/CS771-Project) | ML attack on hardware security primitives - breaks Controlled Arbiter PUFs via CRP modeling | Python · Scikit-learn |
 | [⚡ Parallel Volume Rendering](https://github.com/adarshmudgal4612/Parallel-Volume-Rendering) | Distributed 3D ray casting across multiple systems using MPI | Python · mpi4py · NumPy |
